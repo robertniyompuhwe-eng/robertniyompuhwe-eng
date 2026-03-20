@@ -26,6 +26,7 @@ Interested in **Web Development**, **Physics + Programming**, and **AI**
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
 
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
@@ -35,6 +36,8 @@ Interested in **Web Development**, **Physics + Programming**, and **AI**
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertniyompuhwe-eng&layout=compact&theme=github_dark)
+
 ## 📌 Projects
 
 **Subscription Tracker**  
@@ -43,7 +46,7 @@ _Node.js · Express · MongoDB_
 
 **PowerHive** *(Hackathon – In Progress)*  
 Backend-focused collaborative project  
-_Node.js · Express · MongoDB_
+_Node.js · Express · MongoDB_ .socket.io .c++
 
 ---
 
