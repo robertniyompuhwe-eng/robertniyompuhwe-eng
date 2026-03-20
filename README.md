@@ -36,7 +36,7 @@ Interested in **Web Development**, **Physics + Programming**, and **AI**
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/niyompuhwe-robert-1473993b5/))
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/robertniyompuhwe-eng)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/YOUR_DISCORD)
 
@@ -83,7 +83,6 @@ Backend-focused collaborative project
 
 ---
 
-## 👁️ Visitor Count
 
 <div align="center">
 
