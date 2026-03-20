@@ -86,7 +86,7 @@ Backend-focused collaborative project
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/robertniyompuhwe-eng/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=robertniyompuhwe-eng&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
