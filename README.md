@@ -1,4 +1,4 @@
-# 👋 Hi, I'm NIYOMPUHWE Robert
+# 👋 Hi, I'm Robert
 
 <div align="center">
 
@@ -37,7 +37,7 @@ Interested in **Web Development**, **Physics + Programming**, and **AI**
 <div align="center">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/niyompuhwe-robert-1473993b5/))
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/robertniyompuhwe-eng)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/NRobert120)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/YOUR_DISCORD)
 
 </div>
@@ -48,8 +48,8 @@ Interested in **Web Development**, **Physics + Programming**, and **AI**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=robertniyompuhwe-eng&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertniyompuhwe-eng&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NRobert120&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRobert120&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
 
 </div>
 
@@ -59,7 +59,7 @@ Interested in **Web Development**, **Physics + Programming**, and **AI**
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=robertniyompuhwe-eng&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NRobert120&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -86,7 +86,7 @@ Backend-focused collaborative project
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=robertniyompuhwe-eng&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=NRobert120&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -97,6 +97,6 @@ Backend-focused collaborative project
 <div align="center">
 
 📧 **robertniyompuhwe@gmail.com**  
-🐙 [@robertniyompuhwe-eng](https://github.com/robertniyompuhwe-eng)
+🐙 [@robertniyompuhwe-eng](https://github.com/NRobert120)
 
 </div>
